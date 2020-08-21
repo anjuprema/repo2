@@ -8,7 +8,7 @@ public class MapBilling {
 
 	public static void main(String[] args) {
 		Map <String, Double> myBills = new Hashtable <String, Double>();
-		myBills.put("Grocessary", 234.50);
+		myBills.put("Grocery", 234.50);
 		myBills.put("Milk", 500.45);
 		myBills.put("Snacks", 50.00);
 		myBills.put("Life Insurance", 3000.00);
@@ -18,7 +18,6 @@ public class MapBilling {
 		
 		System.out.println("My Bills: "+myBills);
 		
-		//System.out.println();
 	}
 
 }

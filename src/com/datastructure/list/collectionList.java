@@ -44,7 +44,7 @@ public class collectionList {
 		
 		System.out.println("--------------------------------------------------------");
 
-		List <Float> balanceMoney = new LinkedList <Float> ();
+		LinkedList <Float> balanceMoney = new LinkedList <Float> ();
 		balanceMoney.add((float) 12.6);
 		balanceMoney.add((float) 44.23);
 		balanceMoney.add((float) 23.0);
